@@ -1,0 +1,38 @@
+html,
+body {
+  margin: 0%;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+section{
+    max-height: 110vh;
+    width: 100%;
+    background:url(/assets/Background-image.png)  no-repeat ;
+    
+}
+
+#contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+}
+#contact > input,textarea{
+    display: block;
+    padding: 5px;
+    margin:12px auto;
+    width: 50%;
+    outline: none;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.form-btn{
+    margin-bottom: 2rem;
+}
+
+.form-btn:hover{
+    transform: scale(0.95);
+    transition: all ;
+}

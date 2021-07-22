@@ -1,0 +1,29 @@
+/* font family: abel */
+@font-face {
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+/* font family: arvo */
+@font-face {
+    font-family: Arvo;
+    src: url('../fonts/Arvo/Arvo-Bold.ttf');
+}
+/* font family: josefin */
+@font-face {
+    font-family: josefin;
+    src: url('../fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf');
+}
+/* font family: arvo */
+@font-face {
+    font-family: lexend;
+    src: url('../fonts/Lexend_Deca/LexendDeca-Regular.ttf');
+}
+@font-face {
+    font-family: oswald;
+    src: url('../fonts/oswald/static/Oswald-Bold.ttf');
+}
+@font-face {
+    font-family: anton;
+    src: url('../fonts/anton/Anton-Regular.ttf');
+}
